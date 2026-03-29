@@ -36,5 +36,12 @@ pip install -r requirements.txt
 🙏 致谢
 感谢开源社区和所有深度生成模型的研究者们。本仓库是个人学习笔记，部分代码和灵感来源于：
 
-* [Stanford CS236: Deep Generative Models](https://www.youtube.com/watch?v=XZ0PMRWXBEU&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
-* [CVPR 2025 Workshop: Visual Generative Modeling: What’s After Diffusion?](https://vgm-cvpr.github.io/)
+1. [Stanford CS236: Deep Generative Models](https://www.youtube.com/watch?v=XZ0PMRWXBEU&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+2. [CVPR 2025 Workshop: Visual Generative Modeling: What’s After Diffusion?](https://vgm-cvpr.github.io/)
+3. [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/) Yang Song. Blog post on score-based generative models, May 2021.
+4. [How to Train Your Energy-Based Models.](https://arxiv.org/abs/2101.03288) Yang Song and Diederik P. Kingma. February 2021.
+5. [Tutorial on Deep Generative Models.](https://ermongroup.github.io/generative-models/) Aditya Grover and Stefano Ermon. International Joint Conference on Artificial Intelligence, July 2018.
+6. [Tutorial on Generative Adversarial Networks.](https://sites.google.com/view/cvpr2018tutorialongans/) Computer Vision and Pattern Recognition, June 2018.
+7. [Tutorial on Deep Generative Models.](https://www.youtube.com/watch?v=JrO5fSskISY) Shakir Mohamed and Danilo Rezende. Uncertainty in Artificial Intelligence, July 2017.
+8. [Tutorial on Generative Adversarial Networks.](https://www.youtube.com/watch?v=AJVyzd0rqdc) Ian Goodfellow. Neural Information Processing Systems, December 2016.
+9. [Learning deep generative models.](https://www.cs.cmu.edu/~rsalakhu/papers/annrev.pdf) Ruslan Salakhutdinov. Annual Review of Statistics and Its Application, April 2015.
